@@ -1,0 +1,9 @@
+This program was originally written by: Angelito "Jojo" Sardez Jr.
+
+Please enclosed this statement at the beggining of the program:
+
+// Original Program by: Angelito "Jojo" Sardez Jr.
+// Date Written: August 2003
+// Date Compiled: August 2003
+
+If you found it useful to you or if you like and then vote for me at http:\\www.planet-source-code.com 
